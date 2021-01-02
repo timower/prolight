@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebbebebbe/com.philips.hue.zigbee"
+    "url": "git+https://github.com/timower/prolight"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sebbebebbe/com.philips.hue.zigbee/issues"
+    "url": "https://github.com/timower/proligh/issues"
   },
-  "homepage": "https://github.com/sebbebebbe/com.philips.hue.zigbee#readme"
+  "homepage": "https://github.com/timower/proligh#readme"
 }
