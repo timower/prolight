@@ -1,7 +1,7 @@
 {
-  "name": "com.philips.hue.zigbee",
+  "name": "com.timower.prolight",
   "version": "2.0.15",
-  "description": "Get control of your Philips Hue RGBW and Tunable White bulbs with Homey! No need for the Philips Hue Bridge.",
+  "description": "Get control of your Prolight RGBW and Tunable White bulbs with Homey!",
   "main": "app.js",
   "dependencies": {
     "color-space": "^1.16.0",

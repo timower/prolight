@@ -1,18 +1,18 @@
 {
-  "id": "com.philips.hue.zigbee",
+  "id": "com.timower.prolight",
   "sdk": 2,
   "name": {
-    "en": "Philips Hue ZigBee"
+    "en": "Prolight ZigBee"
   },
   "description": {
-    "en": "Philips Hue Zigbee devices, without the Bridge."
+    "en": "Prolight Zigbee devices, without the Bridge."
   },
   "category": "lights",
   "version": "2.0.15",
   "compatibility": ">=1.5.0",
   "author": {
-    "name": "Johan Bendz",
-    "email": "johan.bendz@hotmail.com"
+    "name": "Timothy Werquin",
+    "email": "timothy@werquin.com"
   },
   "contributing": {
     "developers": [
@@ -27,9 +27,6 @@
     ]
   },
   "donate": {
-    "paypal": {
-      "username": "JohanBendz"
-    }
   },
   "images": {
     "large": "assets/images/large.jpg",
